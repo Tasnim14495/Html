@@ -1,0 +1,8 @@
+<h2>CatPhotoApp</h2>
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A business cat wearing a necktie.">><\img>
+<main>
+
+
+  <src>https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg</src>
+  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>
